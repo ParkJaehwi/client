@@ -19,7 +19,7 @@ function App() {
       <p>임시 텍스트</p>
 
       <button onClick={button}>버튼임</button>
-      <p>임시 텍스트1</p>
+      <p>임시 텍스트4</p>
       <header className="App-header">{data ? <p>{data.message}</p> : <p>Loading...</p>}</header>
     </div>
   );
